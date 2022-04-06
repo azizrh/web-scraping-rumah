@@ -1,0 +1,8 @@
+card yang harus diambil
+gunakan find by xpath
+
+//div[contains(@class,"listing-card listing-id")]
+
+
+searchbox
+//span[@class='twitter-typeahead']//pre[@aria-hidden='true']
